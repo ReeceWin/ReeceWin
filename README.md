@@ -3,7 +3,7 @@
 **Data scientist and developer in London.** First Class BSc in Data Science, now studying for an MSc in Data Analytics. I build end-to-end data products, from ingesting messy data and training models to deploying them to the cloud.
 
 - 🏆 **Hackathon winner:** Best Overall Project and Best Innovation (London Metropolitan Hackathon 2025) for *Project InfinitySim*, a contextual-bandit (LinUCB) media player that personalises films as they play
-- 🎬 **CTO and sole developer at SoftsceneAI:** built a personalised video platform on Google Cloud (FastAPI, PostgreSQL, Cloud Run, Terraform) with a real-time recommendation engine
+- 🎬 **Sole developer at SoftsceneAI:** built a personalised video platform on Google Cloud (FastAPI, PostgreSQL, Cloud Run, Terraform) with a real-time recommendation engine
 - 🤝 **Software developer at FounderMatcha:** built the admin panel and an AI concierge that matched founders with investors at a Google Demo Day
 - 🔍 Currently interested in applied ML, anomaly detection and data for social good
 
