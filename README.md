@@ -14,6 +14,7 @@
 | [**Dark Fleets**](https://github.com/ReeceWin/dark-fleets) | Predicting prolonged AIS "dark" events, a warning sign of illegal fishing, from 55k global vessel-tracking records | Python, GeoPandas, XGBoost |
 | [**Skin Condition Classifier**](https://github.com/ReeceWin/Artifact) | Multimodal deep learning (image + questionnaire) suggesting likely skin conditions; BSc final-year project | PyTorch, EfficientNet-B3, Streamlit |
 | [**EVEQuant**](https://github.com/ReeceWin/EVEQuant) | Market-data engine finding profitable trade routes in EVE Online's player economy | Python, pandas, NetworkX |
+| [**BikeDiag**](https://github.com/ReeceWin/BikeDiag) 🚧 | Raspberry Pi logger that reads live engine data from a motorcycle ECU over KWP2000. *Current project, work in progress* | Python, pySerial, Raspberry Pi |
 
 *Most of my commercial work is in private repositories, but I'm happy to talk through it.*
 
